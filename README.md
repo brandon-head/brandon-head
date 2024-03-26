@@ -15,6 +15,11 @@ I'm Brandon Head, a Computer Science and Data Science student at Berry College. 
 - Soft Skills: Problem Solving, Leadership, Collaboration, Time Management, Adaptability
 - Concepts: Machine Learning Algorithms, Data Analysis Techniques, Neural Networks, Data Preprocessing, GitHub Project Management
 
+## Hobbies
+- **Gaming:** Avid Rocket League player, competing in tournaments in my free time (Diamond III / Champ I).
+- **Interests:** Harry Potter Enthusiast, Vinyl Collector, Golf.
+- **Favorite Animes:** Attack on Titan, Demon Slayer.
+
 ## Contact
 - Email: brandon.head843@gmail.com
 - Phone: (843) 743-8997
